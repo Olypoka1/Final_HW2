@@ -1,0 +1,97 @@
+.image-text {
+    position: absolute;
+    bottom: 0;
+}
+
+#image0 {
+    width: 45%;
+    height: 370px;
+    background-color: rgb(226, 183, 43);
+    background-image: url("Israel.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+}
+
+#image1 {
+    width: 45%;
+    height: 185px;
+    background-color: blueviolet;
+    background-image: url("america.webp");
+    background-size: 100%;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+
+#image2 {
+    width: 45%;
+    height: 185px;
+    background-color: rgb(119, 226, 43);
+    background-image: url("TheOnline.jpg");
+    background-size: 100%;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+
+
+#image3 {
+    width: 45%;
+    height: 185px;
+    background-color: rgb(43, 156, 226);
+    background-image: url("Singer.pg.webp");
+    background-size: 100%;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+
+
+#image4 {
+    width: 45%;
+    height: 185px;
+    background-color: rgb(226, 183, 43);
+    background-image: url("bbh.jpg");
+    background-size: 100%;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+
+
+
+#group1{
+    /*display: flex;
+    flex-wrap: wrap;
+    */
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#image6{
+    width: 33%;
+    height: 285px;
+    display: inline-block;
+    display:inline-block;
+}
+.image-img {
+    max-width: 100%;
+}
+
+#image7{
+    width: 33%;
+    height: 285px;
+    display: inline-block;
+    
+}
+
+#image8{
+    width: 33%;
+    height: 285px;
+    display: inline-block;
+    
+}
